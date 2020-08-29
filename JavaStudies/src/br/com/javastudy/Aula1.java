@@ -6,7 +6,13 @@ public class Aula1 {
 		
 		System.out.println("Hello Git");
 		System.out.println("Hello Wesley");
+		sayHello();
 		
 	}
+	
+	static void sayHello() {
+		System.out.println("Hi, Wes!");
+	}
+	
 
 }
